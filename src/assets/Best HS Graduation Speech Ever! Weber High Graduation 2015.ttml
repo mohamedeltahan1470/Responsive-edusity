@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="en" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:15.800" end="00:00:19.700" style="s2">You know, I&#39;ve never understood how, um, imagining<br />the audience naked</p>
+<p begin="00:00:19.700" end="00:00:22.200" style="s2">was supposed to make you less nervous.</p>
+<p begin="00:00:22.200" end="00:00:25.520" style="s2">Honestly I&#39;m just uncomfortable right now.</p>
+<p begin="00:00:25.520" end="00:00:28.600" style="s2">Especially with Mr. Wardle.</p>
+<p begin="00:00:32.020" end="00:00:32.720" style="s2">Um, okay.</p>
+<p begin="00:00:32.720" end="00:00:36.240" style="s2">To ensure clear communication with this &quot;social<br />media generation&quot;,</p>
+<p begin="00:00:36.240" end="00:00:39.060" style="s2">hashtags and pop-culture references will be used.</p>
+<p begin="00:00:39.060" end="00:00:41.720" style="s2">#you&#39;rewelcome.</p>
+<p begin="00:00:41.720" end="00:00:44.239" style="s2">Good afternoon, ladies and gentlemen.</p>
+<p begin="00:00:44.240" end="00:00:46.080" style="s2">Today is an exciting day:</p>
+<p begin="00:00:46.080" end="00:00:47.739" style="s2">today I&#39;m going<br />to give you a speech.</p>
+<p begin="00:00:47.739" end="00:00:52.140" style="s2">Now, graduates, I don&#39;t know if you know me,<br />but I&#39;m Chase.</p>
+<p begin="00:00:52.140" end="00:00:54.150" style="s2">We went to High School together.</p>
+<p begin="00:00:54.150" end="00:00:55.980" style="s2">That was good times, follow me on Twitter.</p>
+<p begin="00:00:55.980" end="00:00:58.880" style="s2">And I want to give a big congratulations to everyone</p>
+<p begin="00:00:58.880" end="00:01:00.100" style="s2">--including myself--</p>
+<p begin="00:01:00.100" end="00:01:01.480" style="s2">for being here today.</p>
+<p begin="00:01:01.480" end="00:01:03.420" style="s2">The world we live in is plagued with dangers:</p>
+<p begin="00:01:03.420" end="00:01:04.540" style="s2">Ebola,</p>
+<p begin="00:01:04.540" end="00:01:05.940" style="s2">ISIS,</p>
+<p begin="00:01:05.940" end="00:01:07.620" style="s2">Global Warming,</p>
+<p begin="00:01:07.620" end="00:01:08.820" style="s2">facial acne.</p>
+<p begin="00:01:08.820" end="00:01:11.580" style="s2">And despite all the odds,</p>
+<p begin="00:01:11.580" end="00:01:16.140" style="s2">we still managed<br />to graduate, so let&#39;s give us a big round of applause.</p>
+<p begin="00:01:22.420" end="00:01:27.320" style="s2">It was only three years ago that we came to<br />the labyrinth known as Weber High.</p>
+<p begin="00:01:27.320" end="00:01:30.460" style="s2">As young, timid sophomores we found ourselves<br />lost in its halls</p>
+<p begin="00:01:30.460" end="00:01:34.100" style="s2">like they were the changing stair cases of Hogwarts.</p>
+<p begin="00:01:34.100" end="00:01:39.260" style="s2">We danced to lyrics we did not understand<br />in the song &quot;Gangnam Style&quot;.</p>
+<p begin="00:01:39.260" end="00:01:41.460" style="s2">We said &quot;YOLO&quot; and &quot;cray-cray&quot; as if</p>
+<p begin="00:01:41.460" end="00:01:42.920" style="s2">we were supposed to.</p>
+<p begin="00:01:43.600" end="00:01:46.480" style="s2">Thank goodness we have &quot;yeet&quot; now.</p>
+<p begin="00:01:46.480" end="00:01:50.420" style="s2">We anticipated our cataclysmic doom at the<br />end of 2012.</p>
+<p begin="00:01:50.420" end="00:01:52.840" style="s2">And back then, Weber High School had no windows.</p>
+<p begin="00:01:52.840" end="00:01:55.020" style="s2">Oh wait, it still doesn&#39;t.</p>
+<p begin="00:01:55.020" end="00:01:56.420" style="s2">Ooh.</p>
+<p begin="00:01:56.420" end="00:01:59.880" style="s2">I know, I know, it was a cliché joke but<br />it was still necessary,</p>
+<p begin="00:01:59.880" end="00:02:03.240" style="s2">#sorrynotsorry.</p>
+<p begin="00:02:03.240" end="00:02:05.820" style="s2">Though nervous as sophomores, we started getting<br />a hang of things,</p>
+<p begin="00:02:05.820" end="00:02:08.360" style="s2">and Junior year for many of us brought experience,</p>
+<p begin="00:02:08.360" end="00:02:11.640" style="s2">and for many more<br />of us it meant Stage 1 Senioritis.</p>
+<p begin="00:02:11.660" end="00:02:15.790" style="s2">And now, here we are: done with High School!</p>
+<p begin="00:02:15.790" end="00:02:21.600" style="s2">As Charles Dickens put it, &quot;It was the best<br />of times, it was the worst of times.&quot;</p>
+<p begin="00:02:21.600" end="00:02:25.819" style="s2">But now we are through with the stressful<br />days of AP and ACT testing.</p>
+<p begin="00:02:25.819" end="00:02:28.440" style="s2">We have raised tens of thousands of dollars<br />for Quarters &amp; Cans,</p>
+<p begin="00:02:28.440" end="00:02:33.620" style="s2">and inhaled hundreds of pounds of baby powder during football.</p>
+<p begin="00:02:33.620" end="00:02:36.940" style="s2">We have survived &quot;WHS Screenshots&quot;.</p>
+<p begin="00:02:36.940" end="00:02:42.620" style="s2">And last but not least, we have realized that<br />we are the most attractive class ever.</p>
+<p begin="00:02:45.400" end="00:02:49.320" style="s2">As our Student Body President, Mikah Meyer,<br />has observed, quote,</p>
+<p begin="00:02:49.320" end="00:02:53.150" style="s2">&quot;One might say we&#39;ve aged well.&quot;</p>
+<p begin="00:02:53.150" end="00:02:57.970" style="s2">And now as seniors listening to me deliver<br />this brilliant graduation speech, we are through,</p>
+<p begin="00:02:57.970" end="00:03:02.660" style="s2">afflicted and overwhelmed with Senioritis.</p>
+<p begin="00:03:05.329" end="00:03:08.220" style="s2">Now at the end of our careers as students,<br />we have an opportunity:</p>
+<p begin="00:03:08.220" end="00:03:12.140" style="s2">now is our time to take on the world, and to find and pursue our passions;</p>
+<p begin="00:03:12.140" end="00:03:15.180" style="s2">to quote unquote, &quot;Leave a Legacy.&quot;</p>
+<p begin="00:03:15.180" end="00:03:17.860" style="s2">William Shakespeare, and also Channing Tatum, once said,</p>
+<p begin="00:03:17.860" end="00:03:23.800" style="s2">&quot;Some are born great, some achieve greatness, and some have greatness thrust upon them.&quot;</p>
+<p begin="00:03:23.800" end="00:03:28.200" style="s2">In life, we can&#39;t always count on being born<br />great, or having greatness thrust upon us,</p>
+<p begin="00:03:28.200" end="00:03:32.100" style="s2">but always, always remember that the opportunity to achieve greatness</p>
+<p begin="00:03:32.100" end="00:03:34.040" style="s2">is within our grasp.</p>
+<p begin="00:03:34.040" end="00:03:38.080" style="s2">Keep in mind that many of our social and political leaders and heroes started their lives</p>
+<p begin="00:03:38.080" end="00:03:39.900" style="s2">as an average person;</p>
+<p begin="00:03:39.900" end="00:03:42.340" style="s2">as just one of you and<br />me.</p>
+<p begin="00:03:42.360" end="00:03:47.060" style="s2">Despite the failures and mistakes we will<br />make, and although me may be &quot;average&quot;,</p>
+<p begin="00:03:47.060" end="00:03:51.460" style="s2">we find that the average can achieve greatness, whether recognized by the world</p>
+<p begin="00:03:51.460" end="00:03:53.700" style="s2">or just a few.</p>
+<p begin="00:03:53.700" end="00:03:55.760" style="s2">Greatness comes from our friends reaching<br />out to us,</p>
+<p begin="00:03:55.760" end="00:03:59.080" style="s2">those who go out of their way to be thoughtful;</p>
+<p begin="00:03:59.080" end="00:04:01.380" style="s2">the &quot;unsung heroes&quot;.</p>
+<p begin="00:04:01.390" end="00:04:06.159" style="s2">If there&#39;s anything you take from today, remember<br />that to &quot;leave a legacy&quot; and to &quot;achieve greatness&quot;</p>
+<p begin="00:04:06.160" end="00:04:09.040" style="s2">is not to get money and recognition,</p>
+<p begin="00:04:09.040" end="00:04:10.880" style="s2">it&#39;s to leave those with whom you cross paths</p>
+<p begin="00:04:10.880" end="00:04:13.200" style="s2">with a little more happiness and hope.</p>
+<p begin="00:04:13.200" end="00:04:16.600" style="s2">Our time here together as a senior class will<br />not be remembered by grades,</p>
+<p begin="00:04:16.600" end="00:04:19.460" style="s2">popularity, likes, or favorites,</p>
+<p begin="00:04:19.460" end="00:04:21.380" style="s2">but by our relationships.</p>
+<p begin="00:04:21.380" end="00:04:23.840" style="s2">The kind of person you were.</p>
+<p begin="00:04:23.840" end="00:04:25.380" style="s2">These are legacies,</p>
+<p begin="00:04:25.380" end="00:04:27.020" style="s2">the kind we must leave.</p>
+<p begin="00:04:27.020" end="00:04:31.480" style="s2">Class of 2015, it&#39;s been a #splendid 3 years<br />with you,</p>
+<p begin="00:04:31.480" end="00:04:32.920" style="s2">and from the bottom of my heart</p>
+<p begin="00:04:32.920" end="00:04:35.220" style="s2">I wish you all the very, very, very best.</p>
+<p begin="00:04:35.220" end="00:04:36.180" style="s2">Thank you.</p>
+</div>
+</body>
+</tt>
